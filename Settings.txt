@@ -1,0 +1,12 @@
+Name: Default
+DataProvider: SqlServer
+DataConnectionString: Data Source=violet.arvixe.com;Initial Catalog=myfactory;Persist Security Info=True;User ID=myfactory;Password=dQdNN8wo5asJ
+DataPrefix: orchard
+RequestUrlHost: null
+RequestUrlPrefix: null
+State: Running
+EncryptionAlgorithm: AES
+EncryptionKey: 2D497A2556C7CE6E9FA70D5217495A68DFBFD66DE2DC928C80B33FF2D69C6FB7
+HashAlgorithm: HMACSHA256
+HashKey: E57162D4F1695FB8837625CE030FCA4F2E72415EEB4A14AAFAF414B76393522CAF96219725CA53B24B9DE96248F4C0613E6E1AF65464DA8C24C4196B7FC58F5C
+Themes: 
